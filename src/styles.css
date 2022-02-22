@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+  color: #70060e;
+  font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  text-align: center;
+  border: 1px solid;
+  padding: 20px;
+  font-size: 18px;
+  border-radius: 4px;
+  font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 60%;
+  border-radius: 10px;
+}
+p {
+  line-height: 1.5;
+  font-size: 13px;
+  margin: 0 0 3px;
+  font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  background-color: #c94b26;
+  color: white;
+  font-size: 18px;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 6px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+  transition: all 2--ms ease-in-out;
+}
+button:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px 60px;
+  background-color: #cbc4b3;
+}
+.learn-more {
+  margin: 30px auto;
+  color: #70060e;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+}
+
+.footer {
+  text-align: center;
+  font-family: "Cerebri Sans", Helvetica, Arial, sans-serif;
+}
